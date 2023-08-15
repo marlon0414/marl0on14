@@ -10,7 +10,7 @@ export default function Header(){
         
 <ul>
   <li>
-  <a href="#">Home </a>
+  <a href="#">Homee </a>
   </li>
   
    <li>
